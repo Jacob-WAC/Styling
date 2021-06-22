@@ -1,0 +1,29 @@
+h1 {
+  background-color: black;
+  color: white;
+  font-size: 400%;
+  text-align: left;
+  padding: 40px 40px 40px 40px solid black;
+  height: 80px;
+}
+
+span {
+  color: turquoise;
+}
+
+h2 {
+  background-color: rebeccapurple;
+  color: white;
+  text-align: center;
+  font-size: 250%;
+  font-style: italic;
+  height: 50px;
+}
+
+h3 {
+  background-color: skyblue;
+  font-size: 180%;
+  text-align: right;
+  text-decoration: underline;
+  height: 40px;
+}
